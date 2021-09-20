@@ -1,0 +1,19 @@
+#head,#linkas{text-align:center}body{background-image:url(../../assets/img/11.jpg);background-size:cover;background-repeat:no-repeat;height:auto;width:auto}#form{max-width:333px;width:90%;position:relative;left:50%;top:10%;padding:40px;border-radius:4px;transform:translate(-50%,10%);color:#fff;box-shadow:3px 3px 4px rgba(0,0,0,.2)}#image{margin:auto;width:50%;padding:10px;max-height:175px;max-width:175px}#linkas{display:block;font-size:12px;opacity:.9;text-decoration:none}#butonas{background:#70b2d0;outline:0;text-shadow:initial}#formum,#formum2{background:0 0;border:none;border-bottom:1px solid #434a52;border-radius:0;box-shadow:none;outline:0;color:inherit}
+.navigation-clean-button .navbar-brand img{
+		height:100%;display:inline-block;margin-right:10px;width:160px
+	}
+	.navigation-clean-button .action-button:hover{
+		background:#40afdf;color:#fff;font-weight:400;border:1px solid #40afdf
+	}
+	.navbar{
+		margin-bottom:0
+	}
+	.btn{
+		border-radius:0
+	}
+	a.navbar-brand.navbar-link{
+		font-weight:400
+	}
+	p.navbar-text.navbar-right.actions{
+		font-family:'Roboto Slab';text-transform:uppercase;font-weight:400
+	}

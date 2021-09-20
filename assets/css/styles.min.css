@@ -1,0 +1,46 @@
+
+
+	.navigation-clean-button .navbar-brand img{
+		height:100%;display:inline-block;margin-right:10px;width:160px
+	}
+	.navigation-clean-button .action-button:hover{
+		background:#40afdf;color:#fff;font-weight:400;border:1px solid #40afdf
+	}
+	.navbar{
+		margin-bottom:0
+	}
+	.btn{
+		border-radius:0
+	}
+	a.navbar-brand.navbar-link{
+		font-weight:400
+	}
+	p.navbar-text.navbar-right.actions{
+		font-family:'Roboto Slab';text-transform:uppercase;font-weight:400
+	}
+	a.navbar-link.login:hover{
+		color:transparent;
+	}
+	.btn.focus,.btn:focus,.btn:hover{
+		color:#fff;text-decoration:none;background-color:#1485ee;border:none
+	}
+	.btn-default{
+		color:#fff;background-color:#df4c40;border:none
+	}
+	.btn{
+		font-family:Roboto;font-weight:400
+	}
+	@media (min-width:1201px){
+		div.row.row-login{
+					color:transparent;
+
+			padding-top:125px
+			}
+		}
+		@media (max-width:1200px){
+			div.row.row-login{
+						background-color:transparent;
+
+				padding-top:75px
+				}
+			}
